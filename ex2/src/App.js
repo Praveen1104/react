@@ -14,7 +14,7 @@ let data=[{
     {
       name:" bosco praveen",
       email:"impraveenbosco@gmail.com",
-      skill:"fed"}
+      skill:"fedd"}
 ];
 let v1=data.map((val)=>{
    return <Card da={val}/>
